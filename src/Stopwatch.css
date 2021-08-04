@@ -1,0 +1,46 @@
+body{
+  height: 100vh;
+  background-color: black;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.Stopwatch {
+  vertical-align: middle;
+}
+  
+.secondsCounter{
+  font-family: 'Poppins', sans-serif;
+  font-size: 90px;
+  color: #ffffff;
+}
+
+.buttonClick{
+  padding-left: auto;
+padding-right: auto;
+
+  margin: 0 10px 0 10px;
+  text-decoration:none; 
+  text-align:center; 
+  padding:12px 60px; 
+  border:none; 
+  -webkit-border-radius:28px;
+  -moz-border-radius:28px; 
+  border-radius: 28px; 
+  font:29px Arial, Helvetica, sans-serif; 
+  font-weight:bold; 
+  color:#7d7d7d; 
+  background-color:#ffffff; 
+  background-image: -moz-linear-gradient(top, #ffffff 0%, #bdbdbd 100%); 
+  background-image: -webkit-linear-gradient(top, #ffffff 0%, #bdbdbd 100%); 
+  background-image: -o-linear-gradient(top, #ffffff 0%, #bdbdbd 100%); 
+  background-image: -ms-linear-gradient(top, #ffffff 0% ,#bdbdbd 100%); 
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bdbdbd', endColorstr='#bdbdbd',GradientType=0 ); 
+  background-image: linear-gradient(top, #ffffff 0% ,#bdbdbd 100%);   
+  -webkit-box-shadow:1px 4px 7px #bababa, inset 0px 0px 19px #ffffff; 
+  -moz-box-shadow: 1px 4px 7px #bababa,  inset 0px 0px 19px #ffffff;  
+  box-shadow:1px 5px 4px #464646, inset 0px 0px 19px #ffffff;  
+   
+   }
